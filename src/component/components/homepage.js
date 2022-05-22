@@ -24,19 +24,19 @@ function homepage() {
                                 Easy to use!
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">Special title treatment</h5>
-                                <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                <h5 class="card-title">Write down</h5>
+                                <p class="card-text">Any important</p>
                             </div>
                         </div>
                       </div>
                       <div class="col">
                         <div class="card">
                             <div class="card-header">
-                                Quick and save!
+                                Quick and quick!
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">Special title treatment</h5>
-                                <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                <h5 class="card-title">Note it</h5>
+                                <p class="card-text">Any don't want to forget</p>
                             </div>
                         </div>
                       </div>
