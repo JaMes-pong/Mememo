@@ -121,7 +121,7 @@ function homepage() {
                 <div class="row">
                     <div class="col">
                         <h1 id="logo">Mememo</h1>
-                        <p>Mememo.com</p>
+                        <p>mememotools.netlify.app</p>
                     </div>
                     <div class="col">
                         <h1>Find Us</h1>
@@ -132,7 +132,7 @@ function homepage() {
                             </div>
                             <div class="card-body" id="memo_body">
                             <blockquote class="blockquote mb-0">
-                                <p id="memo_p">Say Hello to me!<br></br><a href="mailto:mememo_hk@gmail.com">mememotools_hk@gmail.com</a></p>
+                                <p id="memo_p">Say Hello to me!<br></br><a href="mailto:mememo_hk@gmail.com">mememotools.hk@gmail.com</a></p>
                                 <footer class="blockquote-footer">James</footer>
                             </blockquote>
                             </div>
