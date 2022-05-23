@@ -1,12 +1,12 @@
 /* memo page */
 html {
-    background-color: rgb(0, 178, 209);
+    background-color: #69bffc;
 }
 
 .memo-page-all{
-    background-color: rgb(254,247,182);
+    background-color: #69bffc;
 }
-  
+
 .memo-page {
     font-family: 'Varela Round', sans-serif; 
 }

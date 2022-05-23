@@ -18,7 +18,7 @@ function homepage() {
                 <h1>Write down everything that are important to you.</h1>
                 <p>MeMemo is a great tool for you!<br></br>You can write down anything that you want to remember.</p>
                   <div class="row">
-                      <div class="col">
+                      <div class="col-sm">
                         <div class="card">
                             <div class="card-header">
                                 Easy to use!
@@ -29,7 +29,7 @@ function homepage() {
                             </div>
                         </div>
                       </div>
-                      <div class="col">
+                      <div class="col-sm">
                         <div class="card">
                             <div class="card-header">
                                 Quick and quick!
@@ -46,7 +46,7 @@ function homepage() {
                 <h1>Write it and don't forget it anymore.</h1>
                 <p>Reduce the "storage" of your brain! XD</p>
                 <div class="row">
-                    <div class="col-4">
+                    <div class="col-sm-4">
                         <div class="card" id="memo">
                             <div class="card-header" id="memo_header">
                                 Memo
@@ -70,7 +70,7 @@ function homepage() {
                             </div>
                         </div>
                     </div>
-                    <div class="col-4">
+                    <div class="col-sm-4">
                         <div class="card" id="memo">
                             <div class="card-header" id="memo_header">
                                 Memo
@@ -94,7 +94,7 @@ function homepage() {
                             </div>
                         </div>
                     </div>
-                    <div class="col">
+                    <div class="col-sm">
                         <h1>Simple and Clear design.</h1>
                         <p>Clean layout, easy to use, easy to read.</p>
                     </div>
