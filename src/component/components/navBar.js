@@ -4,7 +4,7 @@ import { BsStickies } from "react-icons/bs";
 
 function Navbar() {
     return (
-        <nav class="navbar navbar-expand-lg navbar-light" id="navbar">
+        <nav class="navbar navbar-expand-lg navbar-light sticky-top" id="navbar">
             <div class="container-fluid">
                 <Link to="/" class="navbar-brand" id="logo"><BsStickies/> MeMemo</Link>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

@@ -43,9 +43,15 @@
 
 /* homepage */
 .landing-page-image {
-  background-color: white;
+  /* background-color: white;
   background-blend-mode: exclusion;
-  text-align: center;
+  text-align: center; */
+  background: url(./component/images/bg.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: auto;
 }
 
 .landing-page-h1 {

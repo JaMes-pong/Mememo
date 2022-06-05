@@ -7,7 +7,7 @@ function homepage() {
   return (
     <div>
         <div className="landing-page-image">
-            <img src={BGImages} class="img-fluid" alt="..."></img>
+            {/* <img src={BGImages} class="img-fluid" alt="..."></img> */}
         </div>
         <div className="landing-page-h1">
                 <h1>Write down and remember it</h1>
